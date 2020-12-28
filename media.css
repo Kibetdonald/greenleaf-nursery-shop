@@ -1,0 +1,458 @@
+
+@media screen and (max-width:1440px){
+    
+#menu-icon {
+    display: none;
+  }
+.nav-sm a{
+    display: none;
+  }}
+      /* width 1024*/
+@media screen and (max-width:1280px){
+#subheader p{margin-left:10px;}
+#subheader a{margin-left:10px;}
+#search {margin-left:20px;
+    width: 500px;}
+#copyrights_agile {margin-bottom:500px;
+float: center;}
+.search-area{width:350px;}
+#nav{
+    font-size:12px;
+}
+#user-menu {
+    
+    margin-left: 920px;
+    
+}
+#menu-icon {
+    display: none;
+  }
+.nav-sm a{
+    display: none;
+  }
+}
+        /* width 1024*/
+@media screen and (max-width:1024px){
+#search{width:400px;margin-left:10px;}
+#user-menu {width:200px;margin-left:745px ; margin-top: 28px;}
+.copyrights_agile {margin-bottom:500px;
+    float: center;}
+    .search-area{width:350px;}
+    .Offers {
+        width: 318px;}
+        .bowl {
+            width: 167px;
+            height: 192px;}
+            #user-menu li {
+                    width: 98px;}
+                    #menu-icon {
+                        display: none;
+                      }
+                    .nav-sm a{
+                        display: none;
+                      }
+            
+}
+ 
+              /* width 980*/
+@media screen and (max-width:980px){
+    #search{width:440px;margin-left:10px;}
+    #user-menu {width:200px;margin-left:922px ;}
+    #user-menu  li {width:90px;}
+         .search-area{width:350px;}
+        .Offers {
+            width: 300px;}
+            .bowl {
+                width: 158px;
+                height: 192px;}
+                #menu-icon {
+                    display: none;
+                  }
+                
+    }
+              /* width 320*/
+@media screen and (max-width:320px){
+    #search{width:100px;height:42px; margin-left:-56px;}
+    #user-menu {width:100px;margin-left: 244px;
+        margin-top: 10px;}
+    #user-menu  li {width:90px; font-size: 20px;}
+    
+         .search-area{
+        width:112px;height: 38px;}
+         .search-btn {
+            width: 53px;
+            margin-left:-53px;
+            height: 42px;}
+        .Offers {
+            width: 300px;}
+            .bowl {
+                width: 158px;
+                height: 192px;}
+                .header{
+                    height: 10px;
+                }
+                #main-header {
+                    
+                    margin-top: -109px;
+                }
+                #menu-icon {
+                    display: flex;
+                    margin-top: -10px;
+                  }
+                .nav-sm a{
+                    display: none;
+                  }
+                #subheader {
+                    width: 100%;
+                    height: 65px;
+                    
+                }
+               
+                img.mySlides w3-animate-fading{
+                    height: 150px;
+                }
+                
+#navigation nav{
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    
+}
+#mainav a{
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin: 0 !important;
+    padding: 10px;
+} 
+#navigation{
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+      margin-top: -10px;
+  }
+  #mainav{
+    display:block;
+}
+#Heading-Block {
+  
+    font-size: 19px;
+}
+.Offers {
+    width: 300px;
+    height: 170px;
+}
+.bowl {
+    width: 100px;
+    height: 100px;
+}
+.bowl span {
+    width: 74%;
+    height: 26px;
+    line-height: 25px;}
+    
+    #IIST {
+        color: black;
+        font-size: 14px;}
+        #IST {
+            color: black;
+            font-size: -21px;
+            font-weight: bold;
+            margin-left: 4px;}
+            #IIIST {
+                color: black;
+                font-size: 14px;}
+
+                #subheader p {
+                    margin-left: 2px;
+                    font-size: 12px;
+                }
+                .footer_1 {
+                    width: 100%;
+                    float: left;
+                }
+                .footer_2 {
+                    width: 50%;
+                    float: left;
+                }
+                .footer_3 {
+                    width: 50%;
+                    float: left;
+                }
+                .footer_4 {
+                    width: 100%;
+                    float: left;
+                }
+                .sub {
+                    width: 191px;
+                    border: none;
+                    height: 50px;
+                    padding: 15px;
+                    float: left;
+                }
+            #logo{
+                width: 150px;
+                margin-top: 17px;
+            }}
+
+              /* width 720*/
+@media screen and (max-width:720px){
+    #search{width:100px;height:42px; margin-left: 33px;
+        margin-top: 12px; }
+    #user-menu {
+        width: -1px;
+margin-left: 511px;
+margin-top: 42px;}
+    #user-menu  li {width:90px; font-size: 20px;}
+    #menu-icon {
+        display: flex;
+        margin-top: -60px;
+      }
+    .nav-sm a{
+        display: none;
+      }
+         .search-area{
+        width:272px;height: 38px;margin-left: -60px;}
+         .search-btn {
+            width: 53px;
+            margin-left:-53px;
+            height: 42px;}
+        .Offers {
+            width: 300px;}
+            .bowl {
+                width: 158px;
+                height: 192px;}
+                .header{
+                    height: 10px;
+                }
+                #main-header {
+                    
+                    margin-top: -109px;
+                    height: 112px;
+                }
+                #subheader {
+                    width: 100%;
+                    height: 65px;
+                    
+                }
+               
+                img.mySlides w3-animate-fading{
+                    height: 50%;
+                }
+               
+                
+#navigation nav{
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    
+}
+#mainav a{
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin: 0 !important;
+    padding: 10px;
+} 
+#navigation{
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+      margin-top: -10px;
+  }
+  #mainav{
+    display:none;
+}
+#Heading-Block {
+  
+    font-size: 19px;
+}
+.Offers {
+    width: 300px;
+    height: 170px;
+}
+.bowl {
+    width: 100px;
+    height: 100px;
+}
+.bowl span {
+    width: 74%;
+    height: 26px;
+    line-height: 25px;}
+    
+    #IIST {
+        color: black;
+        font-size: 14px;}
+        #IST {
+            color: black;
+            font-size: -21px;
+            font-weight: bold;
+            margin-left: 4px;}
+            #IIIST {
+                color: black;
+                font-size: 14px;}
+
+                #subheader p {
+                    margin-left: 2px;
+                    font-size: 12px;
+                }
+                .footer_1 {
+                    width: 100%;
+                    float: left;
+                }
+                .footer_2 {
+                    width: 50%;
+                    float: left;
+                }
+                .footer_3 {
+                    width: 50%;
+                    float: left;
+                }
+                .footer_4 {
+                    width: 100%;
+                    float: left;
+                }
+                .sub {
+                    width: 191px;
+                    border: none;
+                    height: 50px;
+                    padding: 15px;
+                    float: left;
+                }
+            #logo{
+                width: 200px;
+                margin-top: 17px;
+            }
+
+            /*min 720*/
+            
+@media screen and (min-width:720px){
+    #search{width:100px;height:42px; margin-left: 33px;
+        margin-top: 12px; }
+        
+    #user-menu {
+        width: -1px;
+margin-left: 511px;
+margin-top: 42px;}
+    #user-menu  li {width:90px; font-size: 20px;}
+    #menu-icon {
+        display: flex;
+        margin-top: -60px;
+      }
+    .nav-sm a{
+        display: none;
+      }
+         .search-area{
+            width: 170px;
+            height: 32px;margin-left: -60px;}
+         .search-btn {
+            width: 53px;
+            margin-left:-53px;
+            height: 42px;}
+        .Offers {
+            width: 300px;}
+            .bowl {
+                width: 158px;
+                height: 192px;}
+                .header{
+                    height: 10px;
+                }
+                #main-header {
+                    
+                    margin-top: -109px;
+                    height: 112px;
+                }
+                #subheader {
+                    width: 100%;
+                    height: 65px;
+                    
+                }
+               
+                img.mySlides w3-animate-fading{
+                    height: 50%;
+                }
+               
+                
+#navigation nav{
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+    
+}
+#mainav a{
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid black;
+    margin: 0 !important;
+    padding: 10px;
+} 
+#navigation{
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+      margin-top: -10px;
+  }
+  #mainav{
+    display:none;
+}
+#Heading-Block {
+  
+    font-size: 19px;
+}
+.Offers {
+    width: 300px;
+    height: 170px;
+}
+.bowl {
+    width: 100px;
+    height: 100px;
+}
+.bowl span {
+    width: 74%;
+    height: 26px;
+    line-height: 25px;}
+    
+    #IIST {
+        color: black;
+        font-size: 14px;}
+        #IST {
+            color: black;
+            font-size: -21px;
+            font-weight: bold;
+            margin-left: 4px;}
+            #IIIST {
+                color: black;
+                font-size: 14px;}
+
+                #subheader p {
+                    margin-left: 2px;
+                    font-size: 12px;
+                }
+                .footer_1 {
+                    width: 100%;
+                    float: left;
+                }
+                .footer_2 {
+                    width: 50%;
+                    float: left;
+                }
+                .footer_3 {
+                    width: 50%;
+                    float: left;
+                }
+                .footer_4 {
+                    width: 100%;
+                    float: left;
+                }
+                .sub {
+                    width: 191px;
+                    border: none;
+                    height: 50px;
+                    padding: 15px;
+                    float: left;
+                }
+            #logo{
+                width: 200px;
+                margin-top: 17px;
+            }}
+        }
